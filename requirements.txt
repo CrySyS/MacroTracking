@@ -1,0 +1,7 @@
+python-can
+folium
+scikit-learn
+scipy
+jupyter
+osmnx
+pyproj

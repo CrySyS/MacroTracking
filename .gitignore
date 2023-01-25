@@ -1,0 +1,14 @@
+# OSM maps
+maps
+
+#python venv
+.venv
+__pycache__
+
+#VSCode settings
+.vscode
+
+# misc
+cache
+log
+.DS_Store
